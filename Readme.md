@@ -6,7 +6,7 @@ In diesem Repository werden die Ressourcen meiner Youtube Videos gesammelt zur V
 
 | Verzeichnis | Beschreibung |
 | --- | --- |
-| breakout | Reihe zum erstellen eines Breakout spiels mittels Lazarus |
+| [breakout](breakout/Readme.md) | Reihe zum erstellen eines Breakout spiels mittels Lazarus |
 
 ## english version
 
@@ -16,4 +16,4 @@ In this repository, the resources of my YouTube videos are made available.
 
 | Folder | Description |
 | --- | --- |
-| breakout | Series for creating a breakout game using Lazarus |
+| [breakout](breakout/Readme.md) | Series for creating a breakout game using Lazarus |

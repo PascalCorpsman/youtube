@@ -4,7 +4,7 @@ In diesem Ordner ist das Material für die Youtube reihe zur Erstellung eines Br
 
 | Verzeichnis | Beschreibung |
 | --- | --- |
-| [lection_1](lection_1) | Es bewegt sich was |
+| [lection_1](lection_1/Readme.md) | Es bewegt sich was |
 | lection_2 | Aufräumen, es bewegt sich viel |
 | lection_3 | Kollisionen .. |
 | lection_4 | Umbau zum Spiel mit Start und Ende |
@@ -20,7 +20,7 @@ This folder contains the material for the YouTube series on creating a breakout 
 
 | Folder | Description |
 | --- | --- |
-| lection_1 | First movements |
+| [lection_1](lection_1/Readme.md) | First movements |
 | lection_2 | Cleanup, lots of movements |
 | lection_3 | Collisios .. |
 | lection_4 | Conversion to a game with a start and end |
