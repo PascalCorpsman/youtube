@@ -4,7 +4,7 @@ In diesem Repository werden die Ressourcen meiner Youtube Videos gesammelt zur V
 
 ### Inhalt:
 
-| Ordner | Beschreibung |
+| Verzeichnis | Beschreibung |
 | --- | --- |
 | breakout | Reihe zum erstellen eines Breakout spiels mittels Lazarus |
 
