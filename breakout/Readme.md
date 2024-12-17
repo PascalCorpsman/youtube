@@ -1,6 +1,6 @@
 > Attention english text below
 
-In diesem Ordner ist das Material für die Youtube reihe zur Erstellung eines Breakout spieles.
+In diesem Ordner ist das Material für die Youtube Reihe zur Erstellung eines Breakout spieles.
 
 | Verzeichnis | Beschreibung |
 | --- | --- |
