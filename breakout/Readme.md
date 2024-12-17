@@ -4,7 +4,7 @@ In diesem Ordner ist das Material für die Youtube reihe zur Erstellung eines Br
 
 | Verzeichnis | Beschreibung |
 | --- | --- |
-| lection_1 | Es bewegt sich was |
+| [lection_1](lection_1) | Es bewegt sich was |
 | lection_2 | Aufräumen, es bewegt sich viel |
 | lection_3 | Kollisionen .. |
 | lection_4 | Umbau zum Spiel mit Start und Ende |
