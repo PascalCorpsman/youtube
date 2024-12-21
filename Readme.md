@@ -1,6 +1,6 @@
 > Attention english text below
 
-In diesem Repository werden die Ressourcen meiner Youtube Videos gesammelt zur Verfügung gestellt.
+In diesem Repository werden die Ressourcen der von mir erstellten Youtube Videos gesammelt zur Verfügung gestellt.
 
 ### Inhalt:
 
