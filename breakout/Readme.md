@@ -22,7 +22,7 @@ This folder contains the material for the YouTube series on creating a breakout 
 | --- | --- |
 | [lection_1](lection_1/Readme.md) | First movements |
 | lection_2 | Cleanup, lots of movements |
-| lection_3 | Collisios .. |
+| lection_3 | Collisions .. |
 | lection_4 | Conversion to a game with a start and end |
 | lection_5 | The userbar, from simulation to a game |
 | lection_6 | Pointsystem |
